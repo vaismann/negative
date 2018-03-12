@@ -1,2 +1,74 @@
-body
-	background-color: green
+.site
+	width: 100%
+	min-height: 100vh
+	margin: 0
+	padding: 0
+	font: normal 16px/28px 'Roboto', sans-serif
+	color: rgba(123, 123, 123, 1)
+
+.site__header
+	padding-top: 40px
+
+.visually-hidden:not(:focus):not(:active)
+  	position: absolute
+
+  	width: 1px
+  	height: 1px
+  	margin: -1px
+  	border: 0
+  	padding: 0
+
+  	white-space: nowrap
+
+  	-webkit-clip-path: inset(100%)
+  	clip-path: inset(100%)
+  	clip: rect(0 0 0 0)
+  	overflow: hidden
+
+.wrapper
+	width: 1160px
+	margin: 0 auto
+	padding: 0 10px
+
+.header
+	display: flex
+	justify-content: space-between
+	align-items: baseline
+	min-height: 70px
+	margin-bottom: 207px
+
+.site-logo__icon
+	width: 106px
+	height: 24px
+
+.nav
+	display: flex
+
+.nav__lang-bar
+	margin-right: 60px
+
+.lang-bar
+	position: relative
+	text-decoration: none
+
+.lang-bar__icon
+	position: absolute
+	left: -30px
+	top: 5px
+
+.lang-bar__lang
+	font: normal 16px 'Roboto Slab', serif
+	color: black
+
+
+.slogan__heading
+	font: bold 90px 'Roboto Slab', serif
+	color: black
+	margin: 0
+
+.slogan__desc
+	width: 273px
+	font-weight: lighter
+	font-size: 22px
+	line-height: 31px
+	color: black

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-lang</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-Tablet" transform="translate(-586.000000, -44.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Language">
+                <g transform="translate(586.000000, 41.000000)">
+                    <g id="icon-lang" transform="translate(0.000000, 3.000000)">
+                        <path d="M9.69805532,10.6953319 L7.62280851,8.64459574 C9.06893617,7.03505106 10.4035489,5.92818298 11,4 L13,4 L13,2 L8,2 L8,0.0127531915 L6,0.0127531915 L6,2 L0,2 L0,4 L9,4 C8.44851064,5.5768383 7.71265532,6.34465532 6.53614468,7.65191489 C5.77631489,6.80629787 5.49837021,5.97226809 5,5 L3,5 C3.59641277,6.33173191 4.42826809,7.50485106 5.44951915,8.64049787 L1.29496596,12.7460298 L2.45106383,13.9021277 L6.53618298,9.81700851 L8.5,12.5 L9.69805532,10.6953319 Z" id="Shape"></path>
+                        <path d="M14.2978596,6.54893617 L12.6638043,6.54893617 L8.98720851,16.3531915 L10.6212638,16.3531915 L11.5404128,13.9021277 L15.4212511,13.9021277 L16.3404,16.3531915 L17.9744553,16.3531915 L14.2978596,6.54893617 Z M12.1531787,12.2680723 L13.4808511,8.72628511 L14.8085234,12.2680723 L12.1531787,12.2680723 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
